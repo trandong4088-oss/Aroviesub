@@ -1,0 +1,6 @@
+{
+  "name": "ARO Vietsub Studio",
+  "description": "Hệ thống ARO Vietsub: Dịch thuật, tạo phụ đề & lồng tiếng video Donghua tự động với Translation Memory, Edge-TTS và Audio Ducking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
